@@ -1,0 +1,14 @@
+setuptools
+twine
+#pandas
+#numpy
+#matplotlib
+#seaborn
+#etc
+codecarbon
+pandas
+numpy
+psutil
+py-cpuinfo
+IPython
+scikit-learn
