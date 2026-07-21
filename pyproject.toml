@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=77.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lusofona-pckg"
+version = "0.0.1"
+description = "eTracker Python package"
+
+readme = "README.md"
+requires-python = ">=3.10"
+
+authors = [
+    { name = "Gonçalo Cabeleira", email = "goncalocabeleira123@gmail.com" },
+    { name = "João Caldeira", email = "joao.caldeira@ulusofona.pt" },
+]
+
+license-files = ["LICENSE"]
+
+dependencies = ["rich", "pandas", "numpy", "codecarbon"]
+
+[project.urls]
+homepage = "https://github.com/jcppc/"
