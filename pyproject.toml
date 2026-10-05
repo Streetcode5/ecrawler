@@ -3,12 +3,12 @@ requires = ["setuptools>=77.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "lusofona-pckg"
-version = "0.0.1"
-description = "eTracker Python package"
+name = "ecrawler"
+version = "0.0.2"
+description = "Python package developed at Lusófona University to track notebook execution times and energy consumption."
 
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.12"
 
 authors = [
     { name = "Gonçalo Cabeleira", email = "goncalocabeleira123@gmail.com" },
@@ -20,4 +20,4 @@ license-files = ["LICENSE"]
 dependencies = ["rich", "pandas", "numpy", "codecarbon"]
 
 [project.urls]
-homepage = "https://github.com/jcppc/"
+homepage = "https://github.com/Streetcode5/ecrawler.git."
