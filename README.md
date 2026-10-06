@@ -11,3 +11,7 @@ Gonçalo Cabeleira; João Caldeira
 ```bash
 pip install ecrawler
 ```
+
+#### Usage
+
+<img width="751" height="860" alt="imagem" src="https://github.com/user-attachments/assets/55524552-b39f-4725-9275-0220c29ed04a" />
